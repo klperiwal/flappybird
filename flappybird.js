@@ -1,8 +1,7 @@
-"use strict";
- 
+//Javascript code
+
 var cvs = document.getElementById("canvas");
 var ctx = cvs.getContext("2d");
-
 // load images
 let bird = new Image();
 let bg = new Image();
